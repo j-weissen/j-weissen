@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_1280.png" />
 <!--
 **j-weissen/j-weissen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
